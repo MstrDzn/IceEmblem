@@ -11,45 +11,20 @@ This project is the first project I have taken in dev back in 2018, being a fan 
 
 <h2>Environments Used </h2>
 
-- <b>Notepad++</b> (21H2)
+- <b>Notepad++</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the welcome file, you will get this<br/>
+<a href="https://imgur.com/s2UJe1D"><img src="https://i.imgur.com/s2UJe1D.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then, click on 'Jouer', then you will be able to choose between 3 differents teams<br/>
+<a href="https://imgur.com/ahcPwFB"><img src="https://i.imgur.com/ahcPwFB.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once the team clicled, the board will appear and the game is able to begin (with some problems) <br/>
+<a href="https://imgur.com/1pqn2EK"><img src="https://i.imgur.com/1pqn2EK.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
